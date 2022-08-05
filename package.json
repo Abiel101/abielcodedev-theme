@@ -1,0 +1,27 @@
+{
+  "name": "abiel-code-dev-theme",
+  "displayName": "abiel.code.dev theme",
+  "description": "abielcodedev theme",
+  "version": "0.0.1",
+  "publisher": "AbielOrtega",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "abielcodedev dark-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/abielcodedev theme-color-theme.json"
+      },
+      {
+        "label": "abielcodedev light-theme",
+        "uiTheme": "vs",
+        "path": "./themes/abielcodedev theme-color-theme-light.json"
+      }
+    ]
+  }
+}
