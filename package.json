@@ -4,6 +4,16 @@
   "description": "abielcodedev theme",
   "version": "0.0.1",
   "publisher": "AbielOrtega",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abiel101/abielcodedev-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "abielcodedev",
+    "abielcodedev theme"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
